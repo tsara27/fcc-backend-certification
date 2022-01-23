@@ -1,3 +1,6 @@
 [submodule "boilerplate-npm"]
 	path = boilerplate-npm
 	url = git@github.com:tsara27/boilerplate-npm.git
+[submodule "boilerplate-express"]
+	path = boilerplate-express
+	url = git@github.com:tsara27/boilerplate-express.git

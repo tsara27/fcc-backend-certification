@@ -7,3 +7,6 @@
 [submodule "boilerplate-mongomongoose"]
 	path = boilerplate-mongomongoose
 	url = git@github.com:tsara27/boilerplate-mongomongoose.git
+[submodule "boilerplate-project-timestamp"]
+	path = boilerplate-project-timestamp
+	url = git@github.com:tsara27/boilerplate-project-timestamp.git

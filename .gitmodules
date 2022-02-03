@@ -10,3 +10,6 @@
 [submodule "boilerplate-project-timestamp"]
 	path = boilerplate-project-timestamp
 	url = git@github.com:tsara27/boilerplate-project-timestamp.git
+[submodule "boilerplate-project-headerparser"]
+	path = boilerplate-project-headerparser
+	url = git@github.com:tsara27/boilerplate-project-headerparser.git

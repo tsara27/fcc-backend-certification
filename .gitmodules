@@ -15,4 +15,5 @@
 	url = git@github.com:tsara27/boilerplate-project-headerparser.git
 [submodule "boilerplate-project-urlshortener"]
 	path = boilerplate-project-urlshortener
-	url = https://github.com/tsara27/boilerplate-project-urlshortener
+	url = git@github.com:tsara27/boilerplate-project-urlshortener.git
+

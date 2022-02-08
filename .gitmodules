@@ -17,3 +17,6 @@
 	path = boilerplate-project-urlshortener
 	url = git@github.com:tsara27/boilerplate-project-urlshortener.git
 
+[submodule "boilerplate-project-exercisetracker"]
+	path = boilerplate-project-exercisetracker
+	url = git@github.com:tsara27/boilerplate-project-exercisetracker.git

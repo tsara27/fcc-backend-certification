@@ -20,3 +20,6 @@
 [submodule "boilerplate-project-exercisetracker"]
 	path = boilerplate-project-exercisetracker
 	url = git@github.com:tsara27/boilerplate-project-exercisetracker.git
+[submodule "boilerplate-project-filemetadata"]
+	path = boilerplate-project-filemetadata
+	url = git@github.com:tsara27/boilerplate-project-filemetadata.git
